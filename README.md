@@ -2,18 +2,11 @@
   <img src="./assets/forge-banner.jpg" width="100%" alt="The Forge">
 </p>
 
-<p align="center">
-  <img src="./assets/greek-key.png" width="60%" alt="Greek key divider">
-</p>
-
 <h1 align="center">ARTH SRIVASTAVA</h1>
 
 <p align="center">
-  <b>Building systems, protocols & products.</b>
-</p>
-
-<p align="center">
-  Rust · C++ · LLVM · Linkers · Federated AI · Blockchain
+  <b>Building systems, protocols & products.</b><br>
+  <code>Rust</code> · <code>C++</code> · <code>LLVM</code> · <code>Distributed Systems</code> · <code>AI Infrastructure</code> · <code>Blockchain</code>
 </p>
 
 <p align="center">
@@ -32,117 +25,42 @@
 
 ## ⚒ THE FORGE
 
-Building at the layers where software stops being abstract—from compiler backends and linkers to federated AI and decentralized protocols.
+> *Building at the layers where software stops being abstract—from compiler backends and linkers to federated AI and decentralized protocols.*
 
-> *The interesting bugs usually live three abstractions below where you first started looking.*
+<br>
 
----
-
-## ⚔ THE DOMAINS
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-
-### ⚙ SYSTEMS
-Rust · C++  
-LLVM · Linkers  
-Linux Toolchains  
-
-</td>
-<td width="33%" valign="top">
-
-### 🧠 FEDERATED AI
-Privacy-Preserving ML  
-Local Model Training  
-Secure Aggregation  
-
-</td>
-<td width="33%" valign="top">
-
-### ⛓ PROTOCOLS
-Solana · Anchor  
-Solidity · Foundry  
-Smart Contracts  
-
-</td>
-</tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33%" align="center">⚙️ SYSTEMS</th>
+      <th width="33%" align="center">🧠 FEDERATED AI</th>
+      <th width="33%" align="center">⛓️ PROTOCOLS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <b>Rust · C++</b><br>
+        <code>LLVM</code> · <code>Linkers</code><br>
+        Linux Toolchains & Compilers
+      </td>
+      <td align="center">
+        <b>Privacy-Preserving ML</b><br>
+        <code>Federated Learning</code><br>
+        Local Training & Aggregation
+      </td>
+      <td align="center">
+        <b>Solana · Anchor</b><br>
+        <code>Solidity</code> · <code>Foundry</code><br>
+        Smart Contracts & DeFi
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-## 🏛 THE WORKS
-
-### `llvm-project`
-Contributing to LLVM compiler infrastructure, optimizations, and runtime libraries.  
-**Focus:** C++ · LLVM · Compilers · Optimization
-
----
-
-### `wild`
-High-performance Linux linker written in Rust. Contributing to linker scripts, symbol resolution, and debugging infrastructure.  
-**Focus:** Rust · ELF · Linkers · Toolchains
-
----
-
-### `fed-learn-model`
-Core infrastructure for distributed, privacy-preserving federated model training in Rust.  
-**Focus:** Rust · Federated Learning · Privacy · Systems
-
----
-
-### `sangrah-ui`
-Governance-first interface and orchestration layer for federated AI training networks.  
-**Focus:** TypeScript · Next.js · AI Orchestration
-
----
-
-### `Blockchain & Protocols`
-Smart contracts and decentralized applications spanning Solana (`defi_insta`) and EVM (`Foundry Fund Me`).  
-**Focus:** Rust · Anchor · Solana · Solidity · Foundry
-
----
-
-## 🛠 TOOLKIT
-
-```text
-Rust         ████████████████
-C++          ███████████████
-TypeScript   █████████████
-Solidity     ████████████
-Python       █████████
-```
-
-`LLVM` · `Linux` · `Docker` · `Solana` · `Foundry` · `Federated Learning` · `PostgreSQL` · `Git`
-
----
-
-## 📊 THE ARCHIVE
-
-<p align="center">
-  <img src="./profile/github-stats.svg" width="49%" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="./profile/streak.svg" width="70%" alt="Contribution Streak" />
-</p>
-
----
-
-## 🐍 CONTRIBUTION TRAIL
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blazearth/Blazearth/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blazearth/Blazearth/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Blazearth/Blazearth/output/github-snake.svg" alt="GitHub contribution snake" />
-  </picture>
-</p>
-
----
-
-## 🏺 SELECTED REPOSITORIES
+## 🏛 FEATURED WORK
 
 <p align="center">
   <a href="https://github.com/Blazearth/llvm-project">
@@ -163,14 +81,23 @@ Python       █████████
 
 ---
 
+## ⚡ ACTIVITY
+
 <p align="center">
-  <img src="./assets/greek-key.png" width="50%" alt="Greek key divider">
+  <img src="./profile/streak.svg" width="65%" alt="Contribution Streak" />
 </p>
 
 <p align="center">
-  <i>Build carefully. Break interesting things.</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blazearth/Blazearth/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blazearth/Blazearth/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Blazearth/Blazearth/output/github-snake.svg" alt="GitHub contribution snake" />
+  </picture>
 </p>
 
+---
+
 <p align="center">
-  <sub>Blazearth · Arth Srivastava</sub>
+  <i>Build carefully. Break interesting things.</i><br>
+  <sub>Arth Srivastava · Blazearth</sub>
 </p>
