@@ -15,9 +15,9 @@
   <text x="48" y="34" font-family="'DejaVu Serif', Georgia, 'Times New Roman', serif" font-size="16" font-weight="bold" fill="#E2DFD8">wild</text>
 
   <!-- Description -->
-  <text x="24" y="64" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#A8A6A0">High-performance Linux linker in Rust. Linker-scripts, symbols & ELF.</text>
+  <text x="24" y="64" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#A8A6A0">High-performance Linux linker in Rust. Linker-scripts, symbols &amp; ELF.</text>
 
-  <!-- Language Badge & Metric -->
+  <!-- Language Badge &amp; Metric -->
   <circle cx="30" cy="95" r="4.5" fill="#D7D4CC"/>
   <text x="42" y="98.5" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11.5" font-weight="500" fill="#C5C2BA">Rust · Linux · ELF Toolchains</text>
   <text x="345" y="98.5" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" font-weight="600" fill="#77746D" text-anchor="end">★ 2.1k+</text>
