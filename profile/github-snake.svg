@@ -364,13 +364,13 @@
   <rect x="729" y="71" width="11" height="11" rx="2" fill="#0B0B0B" />
   <rect x="729" y="85" width="11" height="11" rx="2" fill="#202020" />
   <rect x="729" y="99" width="11" height="11" rx="2" fill="#0B0B0B" />
-  <rect x="505" y="57" width="11" height="11" rx="2" fill="#8B7654" opacity="0.50" />
-  <rect x="519" y="57" width="11" height="11" rx="2" fill="#8B7654" opacity="0.57" />
-  <rect x="533" y="57" width="11" height="11" rx="2" fill="#8B7654" opacity="0.64" />
-  <rect x="547" y="57" width="11" height="11" rx="2" fill="#8B7654" opacity="0.71" />
-  <rect x="547" y="43" width="11" height="11" rx="2" fill="#8B7654" opacity="0.79" />
-  <rect x="561" y="43" width="11" height="11" rx="2" fill="#8B7654" opacity="0.86" />
-  <rect x="575" y="43" width="11" height="11" rx="2" fill="#8B7654" opacity="0.93" />
+  <rect x="505" y="57" width="11" height="11" rx="2" fill="#77746D" opacity="0.50" />
+  <rect x="519" y="57" width="11" height="11" rx="2" fill="#77746D" opacity="0.57" />
+  <rect x="533" y="57" width="11" height="11" rx="2" fill="#77746D" opacity="0.64" />
+  <rect x="547" y="57" width="11" height="11" rx="2" fill="#77746D" opacity="0.71" />
+  <rect x="547" y="43" width="11" height="11" rx="2" fill="#77746D" opacity="0.79" />
+  <rect x="561" y="43" width="11" height="11" rx="2" fill="#77746D" opacity="0.86" />
+  <rect x="575" y="43" width="11" height="11" rx="2" fill="#77746D" opacity="0.93" />
   <circle cx="583" cy="46" r="1" fill="#FFFFFF" />
   <circle cx="583" cy="51" r="1" fill="#FFFFFF" />
 </svg>

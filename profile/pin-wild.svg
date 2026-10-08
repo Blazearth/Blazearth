@@ -1,0 +1,24 @@
+<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="399" height="119" rx="4.5" fill="#090909" stroke="#222222" stroke-width="1"/>
+  <!-- Corner classical tick marks -->
+  <path d="M 6 12 L 6 6 L 12 6" stroke="#444444" stroke-width="1.5" fill="none"/>
+  <path d="M 394 12 L 394 6 L 388 6" stroke="#444444" stroke-width="1.5" fill="none"/>
+  <path d="M 6 108 L 6 114 L 12 114" stroke="#444444" stroke-width="1.5" fill="none"/>
+  <path d="M 394 108 L 394 114 L 388 114" stroke="#444444" stroke-width="1.5" fill="none"/>
+
+  <!-- Repository icon (Classical Roman column capital glyph) -->
+  <g transform="translate(22, 22)">
+    <path d="M0 2 h14 M2 2 v10 M7 2 v10 M12 2 v10 M0 12 h14 M-1 0 h16 M-1 14 h16" stroke="#D7D4CC" stroke-width="1.2" stroke-linecap="square" fill="none"/>
+  </g>
+
+  <!-- Repo Title -->
+  <text x="48" y="34" font-family="'DejaVu Serif', Georgia, 'Times New Roman', serif" font-size="16" font-weight="bold" fill="#E2DFD8">wild</text>
+
+  <!-- Description -->
+  <text x="24" y="64" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#A8A6A0">High-performance Linux linker in Rust. Linker-scripts, symbols & ELF.</text>
+
+  <!-- Language Badge & Metric -->
+  <circle cx="30" cy="95" r="4.5" fill="#D7D4CC"/>
+  <text x="42" y="98.5" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11.5" font-weight="500" fill="#C5C2BA">Rust · Linux · ELF Toolchains</text>
+  <text x="345" y="98.5" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" font-weight="600" fill="#77746D" text-anchor="end">★ 2.1k+</text>
+</svg>

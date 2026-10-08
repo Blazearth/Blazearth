@@ -132,7 +132,7 @@
           y="0"
           width="91.25"
           height="8"
-          fill="#3178c6"
+          fill="#E0DDD5"
         />
       
         <rect
@@ -142,7 +142,7 @@
           y="0"
           width="79.87"
           height="8"
-          fill="#b07219"
+          fill="#BCB9B0"
         />
       
         <rect
@@ -152,7 +152,7 @@
           y="0"
           width="22.61"
           height="8"
-          fill="#dea584"
+          fill="#9B9890"
         />
       
         <rect
@@ -162,7 +162,7 @@
           y="0"
           width="18.84"
           height="8"
-          fill="#3572A5"
+          fill="#7C7972"
         />
       
         <rect
@@ -172,7 +172,7 @@
           y="0"
           width="16.83"
           height="8"
-          fill="#DA5B0B"
+          fill="#636059"
         />
       
         <rect
@@ -182,7 +182,7 @@
           y="0"
           width="17.79"
           height="8"
-          fill="#f1e05a"
+          fill="#4D4A44"
         />
       
         <rect
@@ -192,7 +192,7 @@
           y="0"
           width="17.7"
           height="8"
-          fill="#e34c26"
+          fill="#393732"
         />
       
         <rect
@@ -202,63 +202,63 @@
           y="0"
           width="15.120000000000001"
           height="8"
-          fill="#663399"
+          fill="#282622"
         />
       
       
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <circle cx="5" cy="6" r="5" fill="#E0DDD5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         TypeScript 36.50%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#b07219" />
+      <circle cx="5" cy="6" r="5" fill="#BCB9B0" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Java 31.95%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#dea584" />
+      <circle cx="5" cy="6" r="5" fill="#9B9890" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Rust 9.04%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#7C7972" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Python 7.54%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
+      <circle cx="5" cy="6" r="5" fill="#636059" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Jupyter Notebook 6.73%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#4D4A44" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         JavaScript 3.12%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#393732" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         HTML 3.08%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <circle cx="5" cy="6" r="5" fill="#282622" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         CSS 2.05%
       </text>

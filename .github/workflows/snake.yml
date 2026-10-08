@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: Blazearth
           outputs: |
-            dist/github-snake.svg?color_snake=%238B7654&color_dots=%230B0B0B,%23202020,%23404040,%23707070,%23B8B5AE
-            dist/github-snake-dark.svg?color_snake=%23B08D57&color_dots=%23090909,%23181818,%23333333,%23666666,%23A8A6A0
+            dist/github-snake.svg?color_snake=%2377746D&color_dots=%23F0EFEA,%23D4D1C9,%239E9B93,%2355524B,%23252422
+            dist/github-snake-dark.svg?color_snake=%23D7D4CC&color_dots=%23090909,%23181818,%23333333,%23666666,%23A8A6A0
 
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v4

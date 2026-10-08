@@ -18,13 +18,13 @@
 
 <p align="center">
   <a href="https://github.com/Blazearth">
-    <img src="https://img.shields.io/badge/GitHub-Blazearth-161616?style=flat-square&logo=github&logoColor=D7D4CC"/>
+    <img src="https://img.shields.io/badge/GitHub-Blazearth-090909?style=flat-square&logo=github&logoColor=D7D4CC"/>
   </a>
   <a href="https://www.linkedin.com/in/arth-srivastava30/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-161616?style=flat-square&logo=linkedin&logoColor=D7D4CC"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-090909?style=flat-square&logo=linkedin&logoColor=D7D4CC"/>
   </a>
   <a href="mailto:arthsrivastava1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-161616?style=flat-square&logo=gmail&logoColor=D7D4CC"/>
+    <img src="https://img.shields.io/badge/Email-Contact-090909?style=flat-square&logo=gmail&logoColor=D7D4CC"/>
   </a>
 </p>
 
@@ -146,18 +146,18 @@ Python       █████████
 
 <p align="center">
   <a href="https://github.com/Blazearth/llvm-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blazearth&repo=llvm-project&bg_color=0D0D0D&title_color=D7D4CC&text_color=A8A6A0&icon_color=8B7654&hide_border=true" />
+    <img src="./profile/pin-llvm.svg" width="49%" alt="llvm-project" />
   </a>
   <a href="https://github.com/Blazearth/wild">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blazearth&repo=wild&bg_color=0D0D0D&title_color=D7D4CC&text_color=A8A6A0&icon_color=8B7654&hide_border=true" />
+    <img src="./profile/pin-wild.svg" width="49%" alt="wild" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Blazearth/fed-learn-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blazearth&repo=fed-learn-model&bg_color=0D0D0D&title_color=D7D4CC&text_color=A8A6A0&icon_color=8B7654&hide_border=true" />
+    <img src="./profile/pin-fedlearn.svg" width="49%" alt="fed-learn-model" />
   </a>
   <a href="https://github.com/Blazearth/sangrah-ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blazearth&repo=sangrah-ui&bg_color=0D0D0D&title_color=D7D4CC&text_color=A8A6A0&icon_color=8B7654&hide_border=true" />
+    <img src="./profile/pin-sangrah.svg" width="49%" alt="sangrah-ui" />
   </a>
 </p>
 
