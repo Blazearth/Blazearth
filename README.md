@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/forge-banner.jpg" width="100%" alt="The Forge">
+  <img src="assets/_ (2).jpeg" width="100%" alt="Baroque Ceiling Fresco Vault">
 </p>
 
 <h1 align="center">ARTH SRIVASTAVA</h1>
@@ -11,19 +11,19 @@
 
 <p align="center">
   <a href="https://github.com/Blazearth">
-    <img src="https://img.shields.io/badge/GitHub-Blazearth-090909?style=flat-square&logo=github&logoColor=D7D4CC"/>
+    <img src="https://img.shields.io/badge/GitHub-Blazearth-090909?style=flat-square&logo=github&logoColor=E0E0E0"/>
   </a>
   <a href="https://www.linkedin.com/in/arth-srivastava30/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-090909?style=flat-square&logo=linkedin&logoColor=D7D4CC"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-090909?style=flat-square&logo=linkedin&logoColor=E0E0E0"/>
   </a>
   <a href="mailto:arthsrivastava1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-090909?style=flat-square&logo=gmail&logoColor=D7D4CC"/>
+    <img src="https://img.shields.io/badge/Email-Contact-090909?style=flat-square&logo=gmail&logoColor=E0E0E0"/>
   </a>
 </p>
 
 ---
 
-## ⚒ THE FORGE
+## 🏛 THE FORGE
 
 > *Building at the layers where software stops being abstract—from compiler backends and linkers to federated AI and decentralized protocols.*
 
